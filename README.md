@@ -1,5 +1,7 @@
 # Brunch + Redux + React + Babel/ES6
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/rand0me/rand0me.surge.sh.svg)](https://greenkeeper.io/)
+
 This is a modern JS skeleton with React and Redux for [Brunch](http://brunch.io).
 
 ## Installation
